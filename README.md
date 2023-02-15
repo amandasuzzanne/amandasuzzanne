@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **amandasuzzanne/amandasuzzanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,19 +23,20 @@ Here are some ideas to get you started:
 <p align="center">
 <a href= "https://www.linkedin.com/in/amanda-suzzanne-43b311176"><img src="https://img.icons8.com/windows/1x/linkedin.png"/></a>
 <a href= "https://twitter.com/amandaaaaaa_s"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
-<a href= "https://amandasuzanne12@gmail.com"><img src="https://img.icons8.com/fluency-systems-regular/256/new-post.png"/></a>
-  
+<a href= "https://amandasuzanne12@gmail.com"><img src="https://img.icons8.com/windows/1x/new-post.png"/></a>
 </p>
 
-
+<div align="center">
+  
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amandasuzzanne&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godwin254&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
-
-<p align="center"><samp>
-Check out my repos ⬇️  
-  </samp>
-</p>
+<div align="center">
+  
+### Check out my repos ⬇️  
+  
+</div>
