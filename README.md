@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:man_technologist: About Me :  
+- I am a Frontend Developer from Kenya.
+
+- :zap: In my free time, I enjoy reading.
+
+- :mailbox: How to reach me: 
+  
+  LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-suzzanne-43b311176)
+  
+  Email 📧: [amandasuzanne12@gmail.com](https://amandasuzanne12@gmail.com)
 
 
 ### :fire: My Stats :
