@@ -14,16 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:man_technologist: About Me :  
-- I am a Frontend Developer from Kenya.
 
-- :zap: In my free time, I enjoy reading.
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a Frontend Developer Enthusiast.</samp></h4>
 
-- :mailbox: How to reach me: 
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
+
+
+<p align="center">
+<a href= "https://www.linkedin.com/in/amanda-suzzanne-43b311176"><img src="https://img.icons8.com/windows/1x/linkedin.png"/></a>
+<a href= "https://twitter.com/amandaaaaaa_s"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
+<a href= "https://amandasuzanne12@gmail.com"><img src="https://img.icons8.com/fluency-systems-regular/256/new-post.png"/></a>
   
-  LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-suzzanne-43b311176)
-  
-  Email 📧: [amandasuzanne12@gmail.com](https://amandasuzanne12@gmail.com)
+</p>
 
 
 ### :fire: My Stats :
@@ -31,3 +35,9 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godwin254&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
+</p>
