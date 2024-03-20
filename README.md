@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4 align="center"><samp> Hi there 👋🏾, my name is Amanda. Welcome to my GitHub! I am a Software Developer.</samp></h4>
+<h4 align="center"><samp> Hello 👋🏾, my name is Amanda. Welcome to my GitHub! I am a Software Developer.</samp></h4>
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
