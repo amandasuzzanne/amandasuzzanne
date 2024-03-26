@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <h4 align="center"><samp> Hello 👋🏾, my name is Amanda. Welcome to my GitHub! I am a Software Developer. </samp></h4>
-<h4 align="center"><samp> 🌱 I’m currently learning Java Script alongside German. </samp></h4>
+<h4 align="center"><samp> 🌱 I’m currently learning JavaScript. </samp></h4>
+<h4 align="center"><samp> 😄 Pronouns: she/her </samp></h4>
+
 
 
 <p align="center">
